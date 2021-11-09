@@ -19,22 +19,10 @@ function setup() {
   console.log(colors[3]);
   console.log(colors[4]);*/
 
-
 }
 
 
 function draw() {
-  
-  /*white = new ColorBox(0, 50, 50, 50, "white");
-  white.appear();
-  black = new ColorBox(0, 100, 50, 50, "black");
-  black.appear();
-  red = new ColorBox(0, 150, 50, 50, "red");
-  red.appear();
-  green = new ColorBox(0, 200, 50, 50, "green");
-  green.appear();
-  blue = new ColorBox(0, 250, 50, 50, "blue");
-  blue.appear();*/
     
 }
 
